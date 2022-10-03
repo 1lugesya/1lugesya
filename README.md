@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
  iOS Developer | Self Learner
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true)                 |    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya)
 
 
 Languages
