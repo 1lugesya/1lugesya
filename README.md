@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋 I'm Ayşegül :) </h1>
-<h3 align="center"> iOS Developer | Self Learner</h3>
+<h3 align="center"> IOS Developer | Self Learner</h3>
 
 
 <h3 align="left">Languages</h3>
