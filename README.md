@@ -7,6 +7,7 @@
 |---|---|
 
 
+
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ayd/my-stack)
 
 Here are some ideas to get you started:
@@ -18,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> iOS Developer | Self Learner
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya) | |---|---|
 Languages
 swift
 
