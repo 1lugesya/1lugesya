@@ -32,7 +32,7 @@
 
 <div>
   <br />
-   <a href="https://github.com/1lugesya"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1lugesya&bg_color=2b213a&color=d5308e&line=d5308e&point=c4c9d1&hide_border=true" /></a>
+ <!--  <a href="https://github.com/1lugesya"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1lugesya&bg_color=2b213a&color=d5308e&line=d5308e&point=c4c9d1&hide_border=true" /></a> -->
   <br />
   </div> 
 
