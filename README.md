@@ -31,6 +31,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true)                 |   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya)
 
 
+| <a href="https://github.com/1lugesya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1lugesya&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Aysegul's github stats" /></a> | <a href="https://github.com/1lugesya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<div>
+  <br />
+   <a href="https://github.com/1lugesya"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1lugesya&bg_color=2b213a&color=d5308e&line=d5308e&point=c4c9d1&hide_border=true" /></a>
+  <br />
+  </div> 
+
+
 
 
 
