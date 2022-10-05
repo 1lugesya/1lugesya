@@ -28,7 +28,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true)                 |   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya)
+<--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lugesya&count_private=true&langs_count=true&show_icons=true)                 |   |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya) -->
+
+<a href="https://github.com/1lugesya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1lugesya&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true"  /></a> | 
+<a href="https://github.com/1lugesya/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lugesya&layout=compact&theme=synthwave&hide_border=true" /></a> 
 
 
 
